@@ -10,4 +10,5 @@ Currently learning Python through CS50P.
 This repository contains my practice code and 
 exercises as I learn the basics.
 
-Started: March 2025
+Started: 18 March 2025
+Completed First lecture : 20 March 2025
