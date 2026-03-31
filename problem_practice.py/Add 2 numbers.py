@@ -1,10 +1,4 @@
-#Define a main function
-def main():
-    x = int(input("Enter a number: "))
-    print(f"The square of the number is {square(x)}")
+x = int(input("Enter a number: "))
+y = int(input("Enter a number: "))
 
-#Define another function which multiplies the number to itself
-def square(x):
-    return x * x
-
-main()    
+print(f"The addition of numbers is {x + y}")
