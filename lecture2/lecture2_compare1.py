@@ -3,9 +3,9 @@ y = int(input("Enter a number: "))
 
 if x > y:
     print("x is greater than y")
-
-if x < y:
+#elif basically prevents your computer from executing unnecessary code, i.e if the first statement is already true the code wont execute this
+elif x < y:
     print("y is greater than x")
 
-if x == y:
+elif x == y:
     print("x is equal to y")        
