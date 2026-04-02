@@ -7,5 +7,5 @@ if x > y:
 elif x < y:
     print("y is greater than x")
 
-elif x == y:
+else:
     print("x is equal to y")        
