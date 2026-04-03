@@ -3,7 +3,7 @@ def main():
     y =int(input("Enter a number: "))
     z =int(input("Enter a number: "))
     print(largest_of_3(x,y,z))
-
+#Make sure to cover all the cases, another way to go about this is first doing the equal case the individually doin >= for x first, then y and then else for z
 def largest_of_3(x,y,z):
     if x > y and x > z:
         return "The first number is the largest"
